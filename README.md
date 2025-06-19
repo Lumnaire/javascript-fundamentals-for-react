@@ -51,20 +51,23 @@ To explore and run the code examples:
 ```bash
 git clone https://github.com/your-username/javascript-fundamentals-for-react.git
 cd javascript-fundamentals-for-react
+```
 
 ### 2. Navigate to a Concept Folder
 Choose any concept folder you wish to explore, for example:
 
 ```bash
 cd 01-es6-variables-and-scope
+```
 
 ### 3. Run the JavaScript File
-Execute the index.js file using Node.js:
+Execute the `index.js` file using Node.js:
 
 ```bash
 node index.js
+```
 
-(for the 10-modules-import-export folder, you might run node main.js depending on the entry point).
+(for the `10-modules-import-export` folder, you might run `node main.js` depending on the entry point).
 
 Feel free to experiment with the code, modify it, and deepen your understanding!
 ##Happy Coding!
