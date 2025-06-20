@@ -1,5 +1,3 @@
-// index.js for 01-es6-variables-and-scope
-
 console.log("--- ES6 Variables and Scope ---");
 
 // =====================================
